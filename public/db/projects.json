@@ -1,0 +1,30 @@
+{
+  "project1": {
+    "title": "Movie History",
+    "summary": "This project was intended for students to familiarize themselves with Firebase, ERD's and CRUD functionality.",
+    "imageUrl": "https://raw.githubusercontent.com/okaformark/movie-history/master/src/images/home-page.PNG",
+    "githubUrl": "https://github.com/okaformark/movie-history",
+    "firebaseUrl": "https://movie-history-2e70e.firebaseapp.com/"
+  },
+  "project2": {
+    "title": "Sorting Hat",
+    "summary": "A personal project that Sort student into hogwarts houses and prints a card for each student to the DOM.",
+    "imageUrl": "https://raw.githubusercontent.com/okaformark/sorting-hat2/master/images/scrnshot.png",
+    "githubUrl": "https://github.com/okaformark/sorting-hat2",
+    "firebaseUrl": "https://sorting-hat-20fa8.firebaseapp.com/"
+  },
+  "project3": {
+    "title": "Fish Store",
+    "summary": "This site simulates a store where can order fish",
+    "imageUrl": "https://raw.githubusercontent.com/okaformark/fishstore/master/src/images/fishstore.png",
+    "githubUrl": "https://github.com/okaformark/fishstore",
+    "firebaseUrl": " https://fishstore-9d41e.firebaseapp.com"
+  },
+  "project4": {
+    "title": "Temperature converter",
+    "summary": "Prompts you for a value for temperature and converts it to different units based on the button clicked",
+    "imageUrl": "https://raw.githubusercontent.com/okaformark/temperature-converter/master/images/temp.PNG",
+    "githubUrl": "https://github.com/okaformark/temperature-converter",
+    "firebaseUrl": "https://temperature-converter-64bd5.firebaseapp.com"
+  }
+}
